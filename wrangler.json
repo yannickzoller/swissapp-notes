@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "swissapp-notes",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e5197172-1584-464f-85fb-0463d8ff9ebe",
+      "database_name": "swissapp-notes"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
